@@ -1,0 +1,25 @@
+{
+    "name": "com.fawaddev.analytics-rc.firebase",
+    "version": "0.1.0",
+    "displayName": "RC + Analytics",
+    "keywords": [
+        "Mobile",
+        "Analytics",
+        "Remote Config",
+        "Firebase",
+        "vh-name:RC + Analytics",
+        "vh-name:com.fawaddev.analytics-rc.firebase"
+    ],
+    "author": {
+        "name": "Fawad Dev",
+        "url": "https://github.com/fawad0dev/Analytics-RC"
+    },
+    "description": "A Unity plugin for Firebase Remote Config and Analytics integration",
+    "unity": "6000.2.6f2",
+    "dependencies": {
+        "com.fawaddev.customattributes": "0.1.0"
+    },
+    "publishConfig": {
+        "registry": "https://package.openupm.com"
+    }
+}
