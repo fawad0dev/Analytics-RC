@@ -15,7 +15,7 @@
         "url": "https://github.com/fawad0dev/Analytics-RC"
     },
     "description": "A Unity plugin for Firebase Remote Config and Analytics integration",
-    "unity": "6000.2.6f2",
+    "unity": "6000.2",
     "dependencies": {
         "com.fawaddev.customattributes": "0.1.0"
     },
