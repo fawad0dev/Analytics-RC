@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using CustomAnalytics;
 using UnityEngine;
 
 public class SendAnalytics : MonoBehaviour {

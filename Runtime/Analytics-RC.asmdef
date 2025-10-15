@@ -1,0 +1,16 @@
+{
+    "name": "Analytics-RC",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bdba57c28610e384eb7282cf3b2a8492"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
